@@ -17,5 +17,11 @@
             <dl><strong>Café</strong></dl>
             <dd>Expresso</dd>
             <dd>Preto</dd>
+            <dl><strong>Frutas</strong></dl>
+            <dd>Maçã</dd>
+            <dd>Pera</dd>
+            <dd>Melância</dd>
+            <dd>Romã</dd>
+            <dd>Banana</dd>
         </section>
     </body>
