@@ -24,4 +24,21 @@
             <dd>Romã</dd>
             <dd>Banana</dd>
         </section>
+        <section>
+            <header><h1>Lista de produtos</h1></header>
+            <dl><strong>Roupas</strong></dl>
+            <dd>Blusas</dd>
+            <dd>Shorts</dd>
+            <dd>Calças</dd>
+            <DD>Bermudas</DD>
+            <dl><strong>Sapatos</strong></dl>
+            <dd>Tênis</dd>
+            <dd>Chinelos</dd>
+            <dl><strong>Maquiaguem</strong></dl>
+            <dd>Base</dd>
+            <dd>Cilios</dd>
+            <dd>Batom</dd>
+            <dd>Sombras</dd>
+
+        </section>
     </body>
