@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+    <head>
+    <meta charset="utf-8"/>
+    <title> Lista </title>
+    </head>
+    <body>
+        <header><h1>Lista de supermercado</h1></header>
+        <section>
+            <dl><strong>Arroz</strong></dl>
+            <dd>Integral</dd>
+            <dd>Branco</dd>
+            <dl><strong>Feijão</strong></dl>
+            <dd>Mulatinho</dd>
+            <dd>Preto</dd>
+            <dd>Macassar</dd>
+            <dl><strong>Café</strong></dl>
+            <dd>Expresso</dd>
+            <dd>Preto</dd>
+        </section>
+    </body>
